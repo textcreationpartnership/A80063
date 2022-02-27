@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colchester surrendred to the Lord Generall vvith the manner of the agreement: Also a list of the names of the lords, colonells, and other officers, taken with Duke Hambleton at Utoxetor on Friday the 25 of Aug. 1648 all prisoners at mercy, by the Lord Grey. Presented to both Houses of Parliament. 5 lords taken, 2 knights, 8 collonels 7 lieutenant collonels, 13 majors, 31 captains, 43 lieutenants, 21 cornets, 20 quartermasters, 34 corporalls, 5 trumpeters, 3000 private souldiers, 3500 armes and 3000 horse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80063</idno>
+            <idno type="STC">Wing C5017</idno>
+            <idno type="STC">Thomason E461_15</idno>
+            <idno type="STC">ESTC R205168</idno>
+            <idno type="EEBO-CITATION">99864604</idno>
+            <idno type="PROQUEST">99864604</idno>
+            <idno type="VID">162170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colchester surrendred to the Lord Generall vvith the manner of the agreement: Also a list of the names of the lords, colonells, and other officers, taken with Duke Hambleton at Utoxetor on Friday the 25 of Aug. 1648 all prisoners at mercy, by the Lord Grey. Presented to both Houses of Parliament. 5 lords taken, 2 knights, 8 collonels 7 lieutenant collonels, 13 majors, 31 captains, 43 lieutenants, 21 cornets, 20 quartermasters, 34 corporalls, 5 trumpeters, 3000 private souldiers, 3500 armes and 3000 horse.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162170:1" rendition="simple:additions"/>
+            <p>COLCHESTER Surrendred to the Lord Generall VVith the manner of the Agreement: ALSO A Liſt of the names of the Lords, Col<g ref="char:EOLhyphen"/>lonells, and other Officers, taken with DVKE HAMBLETON AT UTOXETOR on Friday the 25 of <hi>Aug.</hi> 1648 all priſoners at mercy, by the Lord <hi>Grey.</hi>
+            </p>
+            <p>
+               <hi>Preſented to both Houſes of Parliament.</hi>
+            </p>
+            <p>5 Lords taken, 2 Knights, 8 Collonels 7 Lieutenant Collonels, 13 Majors, 31 Cap<g ref="char:EOLhyphen"/>tains, 43 Lieutenants, 21 Cornets, 20 Quar<g ref="char:EOLhyphen"/>termaſters, 34 corporalls, 5 Trumpeters, 3000 private Souldiers, 3500 Armes and 3000 Horſe.</p>
+            <p>Printed by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162170:2"/>
+            <pb n="1" facs="tcp:162170:2"/>
+            <div type="part">
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>WE were joyned under the Lord <hi>Grey,</hi> and have (this day) falne upon Duke <hi>Hambleton,</hi> where we found ſo little oppoſi<g ref="char:EOLhyphen"/>tion, that few eſcaped us. They are 3000 Souldiers, beſides Officers. I have ſent you a Liſt of the Officers, they are all priſoners at mercy.</p>
+               <closer>
+                  <dateline>
+                     <hi>Vttoxeter</hi> 
+                     <date>the 25 <hi>of Auguſt</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <div type="section">
+                  <head>There were taken at <hi>Namptwich</hi> before</head>
+                  <list>
+                     <item>Earle of <hi>Traquaire,</hi>
+                     </item>
+                     <item>Lord <hi>Carnolſey,</hi>
+                     </item>
+                     <item>Lord <hi>Lunton</hi>
+                     </item>
+                     <item>Lord <hi>Ramſey</hi>
+                     </item>
+                     <item>Sir <hi>James Leſley</hi>
+                     </item>
+                     <item>Sir <hi>Michael Miſmiſh</hi>
+                     </item>
+                     <item>Lieu. Col: <hi>Graham</hi>
+                     </item>
+                     <item>And divers others,</item>
+                     <item>Taken neere <hi>Nottingham,</hi>
+                     </item>
+                     <item>Sir <hi>Marmaduke Langdale,</hi>
+                     </item>
+                     <item>Col: <hi>Owen</hi>
+                     </item>
+                     <item>And 8 more.</item>
+                  </list>
+                  <p>Beſides Lieu. Gen. <hi>Middleton,</hi> and the foot taken at <hi>Warrington, viz.</hi> 5 Lieut. Collonels, 8 Majors, 20 Capt. 48 Lieutenants, 78 En<g ref="char:EOLhyphen"/>ſignes, 3 Quartermaſters, 128 Sergeants, and 2256 Souldiers.</p>
+               </div>
+               <div type="section">
+                  <pb n="2" facs="tcp:162170:3"/>
+                  <head>A Liſt of the Officers and Number of Souldiers under the command of Duke <hi>Hambleton,</hi> Taken by the Lord <hi>Grey,</hi> and Major Gene<g ref="char:EOLhyphen"/>rall <hi>Lambert,</hi> in the Town of <hi>Vttoxeter</hi> the 25 of <hi>Auguſt</hi> 1648.</head>
+                  <list>
+                     <item>Sent priſoners to <hi>Leiceſter</hi>
+                     </item>
+                     <item>Duke <hi>Hambleton</hi> General</item>
+                     <item>The Lord <hi>Burgeney,</hi>
+                     </item>
+                     <item>Col: <hi>Mills</hi>
+                     </item>
+                     <item>Col: <hi>Carr.</hi>
+                     </item>
+                     <item>Col: <hi>Ramſey,</hi>
+                     </item>
+                     <item>Col: <hi>Blayre.</hi>
+                     </item>
+                     <item>Sent priſoners to <hi>Stafford</hi>
+                     </item>
+                     <item>Col. <hi>Lockhead</hi>
+                     </item>
+                     <item>Col. <hi>Fowles</hi>
+                     </item>
+                     <item>Col. <hi>Turner</hi>
+                     </item>
+                     <item>L. C. <hi>Dalmaboy</hi>
+                     </item>
+                     <item>L. C. <hi>Ogleag</hi>
+                     </item>
+                     <item>L. C. <hi>Blayre</hi>
+                     </item>
+                     <item>L. C. <hi>Cooper</hi>
+                     </item>
+                     <item>L. C. <hi>Drummond</hi>
+                     </item>
+                     <item>L. C. <hi>Dicke</hi>
+                     </item>
+                     <item>L. C. <hi>Hambleton</hi>
+                     </item>
+                     <item>Maj. <hi>Ja. Boſwell</hi>
+                     </item>
+                     <item>Ma. <hi>Geo. Simpſon</hi>
+                     </item>
+                     <item>Major <hi>Crawford</hi>
+                     </item>
+                     <item>Major <hi>Crookes</hi>
+                     </item>
+                     <item>Major <hi>Sharpe</hi>
+                     </item>
+                     <item>Ma. <hi>Hambleton</hi>
+                     </item>
+                     <item>Major <hi>Ennis</hi>
+                     </item>
+                     <item>Major <hi>Middleton</hi>
+                     </item>
+                     <item>Major <hi>Wood</hi>
+                     </item>
+                     <item>Major <hi>Deands.</hi>
+                     </item>
+                     <item>Major <hi>Gibb.</hi>
+                     </item>
+                     <item>Major <hi>Carre</hi>
+                     </item>
+                     <item>Major <hi>Lickwood.</hi>
+                     </item>
+                     <item>Sent to <hi>Staford, Coven<g ref="char:EOLhyphen"/>trey,</hi> and along with the Forces.</item>
+                     <item>Captaine <hi>White</hi>
+                     </item>
+                     <item>Capt. St. <hi>Clare</hi>
+                     </item>
+                     <pb n="3" facs="tcp:162170:3"/>
+                     <item>Cap. <hi>Dalmaboy</hi>
+                     </item>
+                     <item>Cap. <hi>Strachen</hi>
+                     </item>
+                     <item>Cap. <hi>Liſeley</hi>
+                     </item>
+                     <item>Cap. <hi>Hay.</hi>
+                     </item>
+                     <item>Cap. <hi>Camben</hi>
+                     </item>
+                     <item>Cap. <hi>Stretton</hi>
+                     </item>
+                     <item>Cap. <hi>Middleton</hi>
+                     </item>
+                     <item>Cap. <hi>Mayneyes</hi>
+                     </item>
+                     <item>Cap. <hi>Albert</hi>
+                     </item>
+                     <item>Cap. <hi>Alex. Hambleton</hi>
+                     </item>
+                     <item>Cap. <hi>Somerell</hi>
+                     </item>
+                     <item>Cap. <hi>Blaire</hi>
+                     </item>
+                     <item>Cap. <hi>Tompſon</hi>
+                     </item>
+                     <item>Cap. <hi>Robertſon</hi>
+                     </item>
+                     <item>Cap. <hi>Pringle</hi>
+                     </item>
+                     <item>Cap. <hi>Rutherford</hi>
+                     </item>
+                     <item>Cap. <hi>Monoeroth</hi>
+                     </item>
+                     <item>Cap. <hi>Levingſtone</hi>
+                     </item>
+                     <item>Cap. <hi>Will. Hoith</hi>
+                     </item>
+                     <item>Cap. <hi>Cunningham</hi>
+                     </item>
+                     <item>Cap. <hi>Maxwell</hi>
+                     </item>
+                     <item>Cap. <hi>Mongomery</hi>
+                     </item>
+                     <item>Cap. <hi>Smith</hi>
+                     </item>
+                     <item>Cap. <hi>Borthwicke</hi>
+                     </item>
+                     <item>Cap. <hi>Scot</hi>
+                     </item>
+                     <item>Cap. <hi>Joyce</hi>
+                     </item>
+                     <item>Cap. <hi>Rives</hi>
+                     </item>
+                     <item>Cap. <hi>Douglas.</hi>
+                     </item>
+                     <item>Lieut. <hi>Strechard</hi>
+                     </item>
+                     <item>Lieut. <hi>Libertan</hi>
+                     </item>
+                     <item>Lieut. <hi>Junis</hi>
+                     </item>
+                     <item>Lieut. <hi>Douglas</hi>
+                     </item>
+                     <item>Lieut. <hi>Bleive</hi>
+                     </item>
+                     <item>Lieut. <hi>Ramſey</hi>
+                     </item>
+                     <item>Lieut. <hi>Fauks</hi>
+                     </item>
+                     <item>Lieut. <hi>Sinclare</hi>
+                     </item>
+                     <item>Lieut. <hi>Jo. Stroud</hi>
+                     </item>
+                     <item>Lieut. <hi>Munhead</hi>
+                     </item>
+                     <item>Lieut. <hi>Hambleton</hi>
+                     </item>
+                     <item>Lieut. <hi>Gibb</hi>
+                     </item>
+                     <item>Lieut. <hi>Roſſe</hi>
+                     </item>
+                     <item>Lieut. <hi>Jo. Graham</hi>
+                     </item>
+                     <item>Lieut. <hi>Murry</hi>
+                     </item>
+                     <item>Lieut. <hi>Hunter</hi>
+                     </item>
+                     <item>Lieut. <hi>Cleaveland</hi>
+                     </item>
+                     <item>Lieut. <hi>Bulley</hi>
+                     </item>
+                     <item>Lieut. <hi>Knox</hi>
+                     </item>
+                     <item>Lieut. <hi>Tumbrill</hi>
+                     </item>
+                     <item>Lieut. <hi>O Neale</hi>
+                     </item>
+                     <item>Lieut. <hi>O Lauget</hi>
+                     </item>
+                     <item>Lieut. <hi>Callender</hi>
+                     </item>
+                     <item>Lieut. <hi>Gawin Hamilton</hi>
+                     </item>
+                     <item>Lieut. <hi>Drummond</hi>
+                     </item>
+                     <item>Lieut. <hi>Stewart</hi>
+                     </item>
+                     <item>Lieut. <hi>Innis</hi>
+                     </item>
+                     <item>Lieut. <hi>Bunchay</hi>
+                     </item>
+                     <item>Lieut. <hi>Mentieth</hi>
+                     </item>
+                     <item>Lieut. <hi>Primroſe</hi>
+                     </item>
+                     <item>Lieut. <hi>Barkley</hi>
+                     </item>
+                     <item>Lieut. <hi>Burnſed</hi>
+                     </item>
+                     <item>Lieut. <hi>Garmond</hi>
+                     </item>
+                     <item>Lieut. <hi>Dyun</hi>
+                     </item>
+                     <item>Lieut. <hi>Jo. Hamilton</hi>
+                     </item>
+                     <item>Lieut. <hi>Johnſtone</hi>
+                     </item>
+                     <item>Lieut. <hi>Lodi. Hamilton</hi>
+                     </item>
+                     <item>Lieut. <hi>Humbruton</hi>
+                     </item>
+                     <item>Lieut. <hi>Abernethy</hi>
+                     </item>
+                     <item>Lieut. <hi>Mayre.</hi>
+                     </item>
+                     <item>Cornet <hi>Kauk</hi>
+                     </item>
+                     <item>Cornet <hi>Blayre.</hi>
+                     </item>
+                  </list>
+                  <pb n="4" facs="tcp:162170:4"/>
+                  <p>Cornet Grahum. Cor. Reade. Cor. Hunter. Cor. Gibbald. Cor. Skernam. Cor. Hay. Cornet Meldram. Cor. Bell. Cor. Crichton. Cor. Le<g ref="char:EOLhyphen"/>vingſton, Cor. Hay, Cor. Hamilton. Cor. Steward Cor. Cambells, Cor. Hamilton, Cor. Treaſure, Cor. Hamilton, cor. Edmiſton, Cor: Spint. Cor Bell,</p>
+                  <p>Quartermaſter Blackley, Quar. Oſwell, Quar. St. Hell, Quar. Barnes, Quar. Sampſon, Quar. Ky<g ref="char:EOLhyphen"/>neere, Quar. Johnſton, Quartermaſt. Levingſton, Quar. Laky, Quar. Wilſton, Quar. Browne, Quar. Gaſton, Quar. Horne, Quar. Cumbell, Quar. Heath Quar. Dunbarr, Quar. Clegorne, Quar. Hamilton, Quar. Vaux, Quar, Cambell.</p>
+                  <p>Corporall Carr, Corp. Levingſton, corp, Chrighton, corp. Monroe, corp. Kelley, corp. Morchell, corp. Edom, corp. Mer, corp. Newton, corp. Teate, corp. Wilſon, corp. Wilſon, corp. Gray, corp. Matland, corp. Tald, corp. Douglas, corp. Kevaday, corp. Duffe, corp. Douglas, corp. Dunſtaine, corp. Hun<g ref="char:EOLhyphen"/>ter, corp. Hebron, corp. More, corp. Barkley, corp. Anderſon, corp. Lockheart, corp. Craford, corp. Mungumre, corp. Wilſon, corp. Buthano, corp. Fouler, corp. Cider Hunter.</p>
+               </div>
+               <div type="section">
+                  <head>Trumpeters,</head>
+                  <p>John White, James Ramſell, John Mackey, Walter Jackſon, John Wright.</p>
+                  <p>3000 private ſouldies, 3500 Armes, 3000 Horſe, Duke Hamiltons Scarfe and Sword,</p>
+               </div>
+               <div type="section">
+                  <pb n="5" facs="tcp:162170:4"/>
+                  <head>Duke <hi>Hambletons</hi> ſervants.</head>
+                  <p>Mr. <hi>Cole,</hi> mr. <hi>James Hamilton,</hi> mr. <hi>Lewis,</hi> mr. <hi>Jo. Hamilton,</hi> mr. <hi>Rob. Hamilton, Robert Cole,</hi> Mr. <hi>Iames Hamilton,</hi> mr. <hi>Jam. Skene, Tho. Hamilton, Patrick Hamilton, Iohn Hamilton, Walter Whit<g ref="char:EOLhyphen"/>ſon, John Clark, Iames Taylor, William. Jack, John Tench, Wil. Hamilton, Rob. Hamilton, Ralph Ri<g ref="char:EOLhyphen"/>chinſon, Iames Biſhop, Francis Brown, Valentine Baldwin, Io. Bell, Alexander Simpſon, George Pit<g ref="char:EOLhyphen"/>man, Robert Robſon, Nathaniel Peterſon, Iames Hamilton, Cornelius Herne, David Coulte, Tho<g ref="char:EOLhyphen"/>mas Wilſon, Archibald Hamilton, Will. Bleak<g ref="char:EOLhyphen"/>bunn, Thomas Miller, William Gilmore, William Strong,</hi> Mr. <hi>Standidge,</hi> Mr. <hi>Joh. Herbert, Ro<g ref="char:EOLhyphen"/>bert Flemming, Iohn Lenrick, Rich. Sterenton, Iohn Flemming, VVilliam Tompſon, Iames Put<g ref="char:EOLhyphen"/>terſon, Robert Neſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oth, Iohn Allen, Iohn Iohnſon Iames Douglas, Henry VVickſon, Alexander Fite, VVilliam Menerherd, Iohn Buggan, Tho. Mud<g ref="char:EOLhyphen"/>dell, VVilliam Fountain. Andrew Hinsburne, VVil<g ref="char:EOLhyphen"/>liam Monerherd, David Cunningham, Iohn Hun<g ref="char:EOLhyphen"/>ter, David Honind, Iohn Browne, Iowen Ha<g ref="char:EOLhyphen"/>milton, David Biſſet, John Edgar, James Dynn VVilliam Keimance.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:162170:5"/>
+                  <head>The Lord Burgeines Servants.</head>
+                  <p>
+                     <hi>James Steward, Robert Hamilton, Kobert Hill, Thomas Eiſton, John Knocks, John Johnſtoun, Victrick Meder.</hi>
+                  </p>
+                  <p>The Generall, One Lord, 7 Collonels, 7 Lieuten. Collonels, 13 Majors, 31 Cap<g ref="char:EOLhyphen"/>tains, 43 Lieutenants, 21 Cornets, 20 Quar<g ref="char:EOLhyphen"/>termaſters, 34 Corporalls, 5 Trumpeters. Common Souldiers neer upon 3000 The Dukes Servants 65. The Lord <hi>Bergeins</hi> 7.</p>
+               </div>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Sir.</salute>
+               </opener>
+               <p>Colcheſter is to be ſurrendred to the Lord Generall to morrow. The towne is to be ſecured from Plunder, all Officers above Lieutenants are to be Priſoners at mercy. The reſt have quarter for their lives, and go away.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
